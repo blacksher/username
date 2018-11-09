@@ -1,6 +1,6 @@
 #! /bin/bash
-#username.sh
-#AlliyahBlacksher
+# username.sh
+# AlliyahBlacksher
 
 echo "Rules: The only characters that can be used are lower case letters, digits, and the underscore character. It must start with a lower case letter, It must contain at least three but no more than 12 characters."
 echo "Enter a username"
